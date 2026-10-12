@@ -55,7 +55,6 @@ Designed, developed, and deployed a full-stack exam preparation platform featuri
 **Software Engineer | Usable Systems Lab — King Abdulaziz University**
 
 - Contributing to backend service development, API design, database integration, and Docker-based deployment workflows.
-- Participating in HCI/CSCW research focused on delivery location coordination in regions with limited addressing infrastructure.
 
 **Artificial Intelligence Intern | AIADS Center — King Abdulaziz University**
 
