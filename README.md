@@ -70,10 +70,9 @@ Designed, developed, and deployed a full-stack exam preparation platform featuri
 - Artificial Intelligence Specialization Track
 
 **King Abdullah University of Science and Technology (KAUST)**
-- Graduate of the KAUST Academy Artificial Intelligence Specialization Program
-- KAUST Academy AI Summer School 2025 — Finalist
-- Completed 320+ hours of intensive AI training covering Computer Vision, Natural Language Processing, Reinforcement Learning, and Deep Learning
-- MENA ML Winter School 2026 — Selected Participant
+- **KAUST Academy AI Specialization Program — Graduate:** Completed 320+ hours of intensive training in Computer Vision, Natural Language Processing, Reinforcement Learning, and Deep Learning.
+- **KAUST Academy AI Summer School 2025 — Finalist**
+- **MENA ML Winter School 2026 — Selected Participant**
 
 ---
 
