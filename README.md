@@ -30,7 +30,7 @@ I currently contribute to software engineering and research activities at the **
 
 ### 🚀 Featured Projects
 
-#### 🔍 [MythBuster — AI-Powered Arabic Video Fact-Checking](https://github.com/asaazamaan/MythBuster)
+#### [MythBuster — AI-Powered Arabic Video Fact-Checking](https://github.com/asaazamaan/MythBuster)
 
 An AI-powered application that analyzes Arabic medical videos to extract and verify factual claims. It integrates speech recognition, claim extraction, evidence retrieval, and LLM-based verification to generate evidence-grounded results.
 
@@ -38,7 +38,7 @@ An AI-powered application that analyzes Arabic medical videos to extract and ver
 
 [Source Code](https://github.com/asaazamaan/MythBuster) | [Live Demo & Screenshots](https://asaazamaan.github.io/mythbuster-demo/) | [Video Demonstration](https://www.youtube.com/watch?v=p8ZqCEGbmfs)
 
-#### 🧪 TestsLab — Full-Stack Exam Preparation SaaS
+#### TestsLab — Full-Stack Exam Preparation SaaS
 
 Designed, developed, and deployed a full-stack exam preparation platform featuring authentication, role-based access, analytics dashboards, and a custom content-processing pipeline.
 
